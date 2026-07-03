@@ -1,7 +1,7 @@
 {
-  "name": "alma/sylius-payment-plugin",
+  "name": "akawaka/sylius-alma-payment-plugin",
   "type": "sylius-plugin",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "keywords": [
     "alma",
     "buy now pay later",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "require": {
     "php":  "~7.4 || ~8.0 || ~8.1 || ~8.2 || ~8.3",
-    "alma/alma-php-client": ">=1.11.2",
+    "alma/alma-php-client": ">=1.11.2 <3.0",
     "sylius/sylius": ">=v1.9.0 <2.0",
     "ext-json": "*"
   },

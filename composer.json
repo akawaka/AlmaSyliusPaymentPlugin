@@ -11,7 +11,7 @@
     "sylius",
     "sylius-plugin"
   ],
-  "description": "Payment plugin to integrate Alma installments and pay later payments with your Sylius shop",
+  "description": "Fork of alma/sylius-payment-plugin restoring Alma In-Page payment support (removed upstream in 2.2.0) via the @alma/in-page SDK — by AKAWAKA.",
   "license": "MIT",
   "require": {
     "php":  "~7.4 || ~8.0 || ~8.1 || ~8.2 || ~8.3",

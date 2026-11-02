@@ -32,3 +32,5 @@ alma_sylius_payment_plugin:
     pay: 'Payer %amount%'
     error: "Le paiement n'a pas pu être initialisé. Veuillez réessayer ou nous contacter."
     test_mode: 'Mode démo (test) — aucun paiement réel ne sera effectué.'
+    warning: "Attention ! Un crédit coûte de l'argent et doit être remboursé"
+    legal_notice: "Sous réserve d'acceptation par Alma SAS (almapay.com), société de financement agréée par l'ACPR (code CIB : 17408). RCS Nanterre 839100575. Contact : support@almapay.com"

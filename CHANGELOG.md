@@ -1,5 +1,10 @@
 # Changelog
 
+v2.2.2
+------
+
+- Feat: Display the consumer credit warning and legal sentence required by Alma on the In-Page payment form
+
 v2.2.1
 ------
 

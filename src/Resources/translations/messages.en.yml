@@ -32,3 +32,5 @@ alma_sylius_payment_plugin:
     pay: 'Pay %amount%'
     error: "The payment could not be initialized. Please try again or contact us."
     test_mode: 'Demo mode (test) — no real payment will be made.'
+    warning: "Caution! Borrowing money costs money."
+    legal_notice: "Subject to approval by Alma SAS (almapay.com), payment institution authorised by the ACPR (CIB: 17408). RCS Nanterre 839100575. Contact: support@almapay.com"

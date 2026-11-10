@@ -1,5 +1,10 @@
 # Changelog
 
+v2.2.3
+------
+
+- Feat: Allow 24 installments in the Alma gateway configuration
+
 v2.2.2
 ------
 
